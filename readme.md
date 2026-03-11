@@ -1,4 +1,4 @@
-```markdown
+
 # F1 2026 Race Strategy Suite
 
 A comprehensive data science and AI portfolio project focused on Formula 1 race strategy under the impending 2026 technical regulations. This suite models advanced telemetry, energy deployment, and active aerodynamics.
@@ -45,4 +45,3 @@ source venv/bin/activate
 
 # Install requirements (currently just fastf1 and pandas)
 pip install fastf1 pandas
-```

@@ -1,47 +1,53 @@
-
 # F1 2026 Race Strategy Suite
 
-A comprehensive data science and AI portfolio project focused on Formula 1 race strategy under the impending 2026 technical regulations. This suite models advanced telemetry, energy deployment, and active aerodynamics.
+A production-style portfolio project focused on data engineering, analytics, and future machine learning for Formula 1 race strategy.
 
-## Project Vision
-This repository serves as a multi-module technical demonstration of Data Engineering, SQL, Cloud Infrastructure, and Machine Learning. The primary goal is to simulate and optimize race strategies by ingesting historical telemetry and applying predictive models.
+## Core idea
 
-## Architecture & Modules
+This repository is intentionally split into:
+- `backend/`: the main data/ML system (FastF1 + pandas + API)
+- `frontend/`: a separate UI layer for visualization
 
-### Module 1: Data Core (Active Development)
-The foundation of the suite. Ingests, cleans, and stores high-fidelity race data.
-* **Data Source:** `fastf1` Python library for lap telemetry (speed, throttle, braking, gear, RPM).
-* **Storage:** Oracle Cloud Infrastructure (OCI) Database.
-* **Processing:** SQL for aggregation and Python/Pandas for transformations.
+This helps you stay focused on learning data science and ML while still showing how the project can grow into a production architecture.
 
-### Module 2: Energy Brain (Planned)
-A Reinforcement Learning (RL) model designed to simulate the 50/50 ICE-to-Electrical power ratio introduced in the 2026 engine regulations.
-* **Focus:** Optimizing energy deployment and harvesting over a race distance.
+## Why split backend and frontend?
 
-### Module 3: Active Aero Logic (Planned)
-Predictive modeling for the 2026 active aerodynamics (X-Mode for drag reduction, Z-Mode for high downforce).
-* **Focus:** Determining optimal DRS/Active Aero activation zones based on historical speed traps and cornering telemetry.
+- Your main learning and portfolio value is in data pipelines, analytics, and ML.
+- Frontend should be replaceable and independent.
+- API boundaries make the system easier to scale, test, and deploy.
+- Team workflows are cleaner when data and UI concerns are separated.
 
-## Tech Stack
-* **Language:** Python 3.x
-* **Data Handling:** Pandas, FastF1
-* **Database:** SQL, Oracle Cloud DB (OCI)
-* **Machine Learning:** Scikit-Learn, PyTorch (Future)
+## Monorepo structure
 
-## Setup & Initialization
-bash
-# Clone the repository
-git clone https://github.com/yourusername/f1-2026-suite.git
+- `backend/`: ingestion, cleaning, feature engineering, API, datasets
+- `frontend/`: React + Vite dashboard consuming backend API
+- `docs/`: educational architecture and concept notes
 
-# Navigate to the directory
-cd f1-2026-suite
+## Quick start
 
-# Create a virtual environment
-python -m venv venv
+### Backend
 
-# Activate the virtual environment (Linux/Mac)
-source venv/bin/activate
-# Or on Windows: venv\Scripts\activate
+```bash
+cd backend
+pip install -r requirements.txt
+python src/main.py --year 2024 --event "Bahrain Grand Prix" --session R
+uvicorn src.api.app:app --reload
+```
 
-# Install requirements (currently just fastf1 and pandas)
-pip install fastf1 pandas
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Growth roadmap
+
+1. Expand data core with additional sessions and events.
+2. Add richer analytics features and validation checks.
+3. Introduce starter scikit-learn models for pace/strategy forecasting.
+4. Add 2026 concept simulation outputs into API + dashboard.
+5. Connect processed datasets to SQL/cloud storage.
+
+The backend remains the intelligence layer. The frontend remains an interface layer.

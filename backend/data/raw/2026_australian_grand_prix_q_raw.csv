@@ -1,0 +1,354 @@
+Driver,Team,LapNumber,LapTime,Sector1Time,Sector2Time,Sector3Time,Stint,Compound,TyreLife,TrackStatus,EventName,SessionName,Year
+RUS,Mercedes,1.0,0 days 00:01:51.876000,0 days 00:00:41.997000,0 days 00:00:19.351000,0 days 00:00:50.528000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,2.0,0 days 00:01:19.840000,0 days 00:00:27.990000,0 days 00:00:17.599000,0 days 00:00:34.251000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,3.0,0 days 00:02:01.569000,0 days 00:00:40.873000,0 days 00:00:22.025000,0 days 00:00:58.671000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,4.0,,0 days 00:00:46.779000,0 days 00:00:22.489000,,2.0,SOFT,4.0,125,Australian Grand Prix,Q,2026
+RUS,Mercedes,5.0,0 days 00:01:50.313000,0 days 00:00:52.390000,0 days 00:00:19.564000,0 days 00:00:38.359000,3.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,6.0,0 days 00:01:33.246000,0 days 00:00:31.116000,0 days 00:00:23.100000,0 days 00:00:39.030000,3.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,7.0,0 days 00:01:19.507000,0 days 00:00:27.908000,0 days 00:00:17.413000,0 days 00:00:34.186000,3.0,SOFT,7.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,8.0,,0 days 00:00:44.215000,0 days 00:00:22.959000,,3.0,SOFT,8.0,12,Australian Grand Prix,Q,2026
+RUS,Mercedes,9.0,0 days 00:02:19.248000,0 days 00:01:01.667000,0 days 00:00:23.062000,0 days 00:00:54.519000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,10.0,0 days 00:01:18.934000,0 days 00:00:27.816000,0 days 00:00:17.287000,0 days 00:00:33.831000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,11.0,,0 days 00:00:33.193000,0 days 00:00:20.833000,,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,12.0,0 days 00:01:48.654000,0 days 00:00:48.833000,0 days 00:00:20.916000,0 days 00:00:38.905000,5.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,13.0,0 days 00:01:18.987000,0 days 00:00:27.662000,0 days 00:00:17.426000,0 days 00:00:33.899000,5.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,14.0,,0 days 00:00:34.526000,0 days 00:00:20.997000,,5.0,SOFT,6.0,12,Australian Grand Prix,Q,2026
+RUS,Mercedes,15.0,0 days 00:01:48.083000,0 days 00:00:47.304000,0 days 00:00:19.118000,0 days 00:00:41.661000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,16.0,,0 days 00:00:27.522000,,,6.0,SOFT,2.0,152,Australian Grand Prix,Q,2026
+RUS,Mercedes,17.0,,,0 days 00:00:21.850000,0 days 00:00:44.759000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,18.0,0 days 00:01:19.084000,0 days 00:00:27.674000,0 days 00:00:17.488000,0 days 00:00:33.922000,7.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,19.0,,0 days 00:00:31.059000,0 days 00:00:19.934000,,7.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,20.0,0 days 00:01:42.628000,0 days 00:00:43.320000,0 days 00:00:19.771000,0 days 00:00:39.537000,8.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,21.0,0 days 00:01:18.518000,0 days 00:00:27.498000,0 days 00:00:17.284000,0 days 00:00:33.736000,8.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+RUS,Mercedes,22.0,,0 days 00:00:33.644000,0 days 00:00:23.366000,,8.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,1.0,0 days 00:01:48.170000,0 days 00:00:48.079000,0 days 00:00:20.037000,0 days 00:00:40.054000,1.0,MEDIUM,1.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,2.0,0 days 00:01:20.852000,0 days 00:00:28.296000,0 days 00:00:17.795000,0 days 00:00:34.761000,1.0,MEDIUM,2.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,3.0,0 days 00:01:47.042000,0 days 00:00:39.290000,0 days 00:00:24.640000,0 days 00:00:43.112000,1.0,MEDIUM,3.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,4.0,0 days 00:01:34.814000,0 days 00:00:33.467000,0 days 00:00:19.279000,0 days 00:00:42.068000,1.0,MEDIUM,4.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,5.0,0 days 00:01:20.421000,0 days 00:00:28.259000,0 days 00:00:17.657000,0 days 00:00:34.505000,1.0,MEDIUM,5.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,6.0,,0 days 00:00:37.224000,,,1.0,MEDIUM,6.0,125,Australian Grand Prix,Q,2026
+HAM,Ferrari,7.0,0 days 00:01:59.467000,0 days 00:00:59.143000,0 days 00:00:20.038000,0 days 00:00:40.286000,2.0,MEDIUM,7.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,8.0,0 days 00:01:19.811000,0 days 00:00:27.944000,0 days 00:00:17.609000,0 days 00:00:34.258000,2.0,MEDIUM,8.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,9.0,,0 days 00:00:34.539000,0 days 00:00:23.061000,,2.0,MEDIUM,9.0,12,Australian Grand Prix,Q,2026
+HAM,Ferrari,10.0,0 days 00:02:29.731000,0 days 00:01:27.865000,0 days 00:00:19.648000,0 days 00:00:42.218000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,11.0,0 days 00:01:36.101000,0 days 00:00:27.839000,0 days 00:00:22.338000,0 days 00:00:45.924000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,12.0,0 days 00:01:43.821000,0 days 00:00:34.591000,0 days 00:00:20.410000,0 days 00:00:48.820000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,13.0,,0 days 00:00:27.696000,0 days 00:00:19.500000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,14.0,0 days 00:01:34.645000,0 days 00:00:36.667000,0 days 00:00:19.324000,0 days 00:00:38.654000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,15.0,0 days 00:01:19.921000,0 days 00:00:27.976000,0 days 00:00:17.630000,0 days 00:00:34.315000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,16.0,0 days 00:01:51.111000,0 days 00:00:36.103000,0 days 00:00:23.437000,0 days 00:00:51.571000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,17.0,,0 days 00:00:31.955000,0 days 00:00:19.557000,,4.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+HAM,Ferrari,18.0,0 days 00:01:57.488000,0 days 00:00:53.324000,0 days 00:00:20.885000,0 days 00:00:43.279000,5.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,19.0,,0 days 00:00:30.986000,0 days 00:00:24.412000,,5.0,SOFT,2.0,152,Australian Grand Prix,Q,2026
+HAM,Ferrari,20.0,0 days 00:01:56.784000,0 days 00:00:46.700000,0 days 00:00:22.913000,0 days 00:00:47.171000,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,21.0,0 days 00:01:20.423000,0 days 00:00:28.405000,0 days 00:00:17.604000,0 days 00:00:34.414000,6.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,22.0,,0 days 00:00:31.404000,0 days 00:00:19.872000,,6.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,23.0,0 days 00:02:00.661000,0 days 00:01:02.582000,0 days 00:00:19.741000,0 days 00:00:38.338000,7.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAM,Ferrari,24.0,0 days 00:01:19.478000,0 days 00:00:27.756000,0 days 00:00:17.570000,0 days 00:00:34.152000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,1.0,0 days 00:01:51.480000,0 days 00:00:43.936000,0 days 00:00:20.576000,0 days 00:00:46.968000,1.0,MEDIUM,1.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,2.0,0 days 00:01:20.712000,0 days 00:00:28.361000,0 days 00:00:17.661000,0 days 00:00:34.690000,1.0,MEDIUM,2.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,3.0,0 days 00:01:47.918000,0 days 00:00:36.526000,0 days 00:00:23.713000,0 days 00:00:47.679000,1.0,MEDIUM,3.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,4.0,0 days 00:01:20.226000,0 days 00:00:28.211000,0 days 00:00:17.611000,0 days 00:00:34.404000,1.0,MEDIUM,4.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,5.0,,,,,1.0,MEDIUM,5.0,125,Australian Grand Prix,Q,2026
+LEC,Ferrari,6.0,0 days 00:01:53.382000,0 days 00:00:51.732000,0 days 00:00:20.232000,0 days 00:00:41.418000,2.0,MEDIUM,6.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,7.0,,0 days 00:00:34.873000,0 days 00:00:23.527000,,2.0,MEDIUM,7.0,12,Australian Grand Prix,Q,2026
+LEC,Ferrari,8.0,,0 days 00:01:33.719000,0 days 00:00:20.816000,0 days 00:00:38.328000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,9.0,0 days 00:01:20.088000,0 days 00:00:28.049000,0 days 00:00:17.687000,0 days 00:00:34.352000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,10.0,0 days 00:01:46.645000,0 days 00:00:36.817000,0 days 00:00:26.393000,0 days 00:00:43.435000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,11.0,0 days 00:01:36.464000,0 days 00:00:31.125000,0 days 00:00:23.424000,0 days 00:00:41.915000,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,12.0,0 days 00:01:20.296000,0 days 00:00:28.069000,0 days 00:00:17.625000,0 days 00:00:34.602000,3.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,13.0,,0 days 00:00:31.297000,0 days 00:00:19.952000,,3.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,14.0,0 days 00:01:35.534000,0 days 00:00:38.306000,0 days 00:00:20.054000,0 days 00:00:37.174000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,15.0,0 days 00:01:19.357000,0 days 00:00:27.679000,0 days 00:00:17.527000,0 days 00:00:34.151000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,16.0,,0 days 00:00:32.339000,0 days 00:00:20.298000,,4.0,SOFT,3.0,12,Australian Grand Prix,Q,2026
+LEC,Ferrari,17.0,0 days 00:01:57.877000,0 days 00:00:54.408000,0 days 00:00:21.224000,0 days 00:00:42.245000,5.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,18.0,,0 days 00:00:31.253000,,,5.0,SOFT,2.0,152,Australian Grand Prix,Q,2026
+LEC,Ferrari,19.0,0 days 00:01:57.137000,0 days 00:00:50.027000,0 days 00:00:21.373000,0 days 00:00:45.737000,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,20.0,0 days 00:01:20.244000,0 days 00:00:28.225000,0 days 00:00:17.640000,0 days 00:00:34.379000,6.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,21.0,,0 days 00:00:30.696000,0 days 00:00:19.942000,,6.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,22.0,0 days 00:01:38.452000,0 days 00:00:40.728000,0 days 00:00:19.974000,0 days 00:00:37.750000,7.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LEC,Ferrari,23.0,0 days 00:01:19.327000,0 days 00:00:27.761000,0 days 00:00:17.505000,0 days 00:00:34.061000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,1.0,0 days 00:02:01.546000,0 days 00:00:55.995000,0 days 00:00:20.950000,0 days 00:00:44.601000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,2.0,0 days 00:01:20.552000,0 days 00:00:28.413000,0 days 00:00:17.592000,0 days 00:00:34.547000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,3.0,0 days 00:01:50.825000,0 days 00:00:37.464000,0 days 00:00:24.329000,0 days 00:00:49.032000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,4.0,0 days 00:01:45.300000,0 days 00:00:40.219000,0 days 00:00:22.767000,0 days 00:00:42.314000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,5.0,0 days 00:01:20.272000,0 days 00:00:28.037000,0 days 00:00:17.825000,0 days 00:00:34.410000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,6.0,,0 days 00:00:35.125000,,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+PIA,McLaren,7.0,,,0 days 00:00:20.406000,0 days 00:00:38.361000,2.0,SOFT,7.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,8.0,0 days 00:01:28.974000,0 days 00:00:30.781000,0 days 00:00:20.043000,0 days 00:00:38.150000,2.0,SOFT,8.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,9.0,0 days 00:01:19.664000,0 days 00:00:27.947000,0 days 00:00:17.684000,0 days 00:00:34.033000,2.0,SOFT,9.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,10.0,,0 days 00:00:36.822000,0 days 00:00:21.220000,,2.0,SOFT,10.0,12,Australian Grand Prix,Q,2026
+PIA,McLaren,11.0,0 days 00:01:56.518000,0 days 00:00:57.131000,0 days 00:00:19.974000,0 days 00:00:39.413000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,12.0,0 days 00:01:44.750000,0 days 00:00:31.529000,0 days 00:00:19.824000,0 days 00:00:53.397000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,13.0,0 days 00:01:19.582000,0 days 00:00:28.042000,0 days 00:00:17.537000,0 days 00:00:34.003000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,14.0,,0 days 00:00:34.598000,0 days 00:00:21.576000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,15.0,0 days 00:01:46.667000,0 days 00:00:45.759000,0 days 00:00:20.092000,0 days 00:00:40.816000,4.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,16.0,0 days 00:01:19.525000,0 days 00:00:27.811000,0 days 00:00:17.594000,0 days 00:00:34.120000,4.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,17.0,,0 days 00:00:35.135000,0 days 00:00:21.090000,,4.0,SOFT,7.0,12,Australian Grand Prix,Q,2026
+PIA,McLaren,18.0,,,0 days 00:00:20.205000,0 days 00:00:39.330000,5.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,19.0,0 days 00:01:30.057000,0 days 00:00:31.186000,0 days 00:00:19.990000,0 days 00:00:38.881000,5.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,20.0,,,,,5.0,SOFT,3.0,152,Australian Grand Prix,Q,2026
+PIA,McLaren,21.0,,,0 days 00:00:20.068000,0 days 00:00:47.400000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,22.0,0 days 00:01:20.322000,0 days 00:00:28.196000,0 days 00:00:17.565000,0 days 00:00:34.561000,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,23.0,,0 days 00:00:31.041000,0 days 00:00:20.450000,,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,24.0,0 days 00:01:35.254000,0 days 00:00:37.343000,0 days 00:00:20.017000,0 days 00:00:37.894000,7.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PIA,McLaren,25.0,0 days 00:01:19.380000,0 days 00:00:27.737000,0 days 00:00:17.655000,0 days 00:00:33.988000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,1.0,0 days 00:01:48.799000,0 days 00:00:41.250000,0 days 00:00:19.672000,0 days 00:00:47.877000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,2.0,0 days 00:01:20.445000,0 days 00:00:28.200000,0 days 00:00:17.919000,0 days 00:00:34.326000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,3.0,,0 days 00:00:39.694000,0 days 00:00:24.509000,,1.0,SOFT,3.0,125,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,4.0,0 days 00:02:00.766000,0 days 00:00:49.159000,0 days 00:00:19.801000,0 days 00:00:51.806000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,5.0,0 days 00:01:20.023000,0 days 00:00:28.076000,0 days 00:00:17.558000,0 days 00:00:34.389000,2.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,6.0,,0 days 00:00:37.219000,0 days 00:00:25.138000,,2.0,SOFT,6.0,12,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,7.0,0 days 00:01:48.263000,0 days 00:00:40.601000,0 days 00:00:19.895000,0 days 00:00:47.767000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,8.0,0 days 00:01:19.706000,0 days 00:00:27.798000,0 days 00:00:17.735000,0 days 00:00:34.173000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,9.0,,0 days 00:00:37.480000,0 days 00:00:22.217000,,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,10.0,0 days 00:01:50.017000,0 days 00:00:43.030000,0 days 00:00:21.740000,0 days 00:00:45.247000,4.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,11.0,0 days 00:01:19.653000,0 days 00:00:27.899000,0 days 00:00:17.564000,0 days 00:00:34.190000,4.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,12.0,,0 days 00:00:36.812000,0 days 00:00:22.939000,,4.0,SOFT,6.0,12,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,13.0,,0 days 00:00:39.050000,,,5.0,SOFT,1.0,152,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,14.0,,,0 days 00:00:22.547000,0 days 00:00:43.443000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,15.0,0 days 00:01:19.625000,0 days 00:00:27.852000,0 days 00:00:17.453000,0 days 00:00:34.320000,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,16.0,,0 days 00:00:31.985000,0 days 00:00:20.227000,,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,17.0,0 days 00:01:48.880000,0 days 00:00:47.558000,0 days 00:00:22.152000,0 days 00:00:39.170000,7.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,18.0,0 days 00:01:19.303000,0 days 00:00:27.747000,0 days 00:00:17.520000,0 days 00:00:34.036000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HAD,Red Bull Racing,19.0,,0 days 00:00:38.304000,0 days 00:00:22.914000,,7.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+VER,Red Bull Racing,1.0,0 days 00:01:42.025000,0 days 00:00:41.429000,0 days 00:00:19.065000,0 days 00:00:41.531000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+VER,Red Bull Racing,2.0,,0 days 00:00:41.429000,,,1.0,SOFT,2.0,125,Australian Grand Prix,Q,2026
+ANT,Mercedes,1.0,0 days 00:01:59.979000,0 days 00:00:57.486000,0 days 00:00:20.671000,0 days 00:00:41.822000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,2.0,0 days 00:01:20.120000,0 days 00:00:28.214000,0 days 00:00:17.610000,0 days 00:00:34.296000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,3.0,0 days 00:01:48.494000,0 days 00:00:35.026000,0 days 00:00:24.129000,0 days 00:00:49.339000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,4.0,0 days 00:01:20.289000,0 days 00:00:28.414000,0 days 00:00:17.745000,0 days 00:00:34.130000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,5.0,,0 days 00:00:33.419000,0 days 00:00:21.126000,,1.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+ANT,Mercedes,6.0,0 days 00:02:02.055000,0 days 00:00:59.750000,0 days 00:00:19.667000,0 days 00:00:42.638000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,7.0,0 days 00:01:19.604000,0 days 00:00:27.908000,0 days 00:00:17.495000,0 days 00:00:34.201000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,8.0,,0 days 00:00:36.062000,0 days 00:00:23.975000,,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,9.0,0 days 00:01:42.207000,0 days 00:00:42.908000,0 days 00:00:19.645000,0 days 00:00:39.654000,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,10.0,0 days 00:01:19.435000,0 days 00:00:28.002000,0 days 00:00:17.497000,0 days 00:00:33.936000,3.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,11.0,,0 days 00:00:42.834000,0 days 00:00:21.402000,,3.0,SOFT,6.0,12,Australian Grand Prix,Q,2026
+ANT,Mercedes,12.0,0 days 00:01:42.729000,0 days 00:00:41.705000,0 days 00:00:19.802000,0 days 00:00:41.222000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,13.0,,0 days 00:00:27.637000,,,4.0,SOFT,2.0,152,Australian Grand Prix,Q,2026
+ANT,Mercedes,14.0,,,0 days 00:00:20.849000,0 days 00:00:40.285000,5.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,15.0,,0 days 00:00:33.411000,0 days 00:00:25.690000,,5.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,16.0,0 days 00:01:36.911000,0 days 00:00:37.877000,0 days 00:00:19.532000,0 days 00:00:39.502000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,17.0,0 days 00:01:18.811000,0 days 00:00:27.556000,0 days 00:00:17.440000,0 days 00:00:33.815000,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ANT,Mercedes,18.0,,0 days 00:00:33.233000,0 days 00:00:24.050000,,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,1.0,0 days 00:02:06.258000,0 days 00:01:01.485000,0 days 00:00:20.141000,0 days 00:00:44.632000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,2.0,0 days 00:01:21.232000,0 days 00:00:28.774000,0 days 00:00:17.849000,0 days 00:00:34.609000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,3.0,0 days 00:01:49.724000,0 days 00:00:38.668000,0 days 00:00:22.908000,0 days 00:00:48.148000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,4.0,0 days 00:01:37.484000,0 days 00:00:33.785000,0 days 00:00:20.231000,0 days 00:00:43.468000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,5.0,0 days 00:01:20.448000,0 days 00:00:28.195000,0 days 00:00:17.929000,0 days 00:00:34.324000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,6.0,,0 days 00:00:33.518000,,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+NOR,McLaren,7.0,,,0 days 00:00:20.382000,0 days 00:00:37.640000,2.0,SOFT,7.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,8.0,0 days 00:01:35.054000,0 days 00:00:30.482000,0 days 00:00:19.839000,0 days 00:00:44.733000,2.0,SOFT,8.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,9.0,0 days 00:01:32.802000,0 days 00:00:29.799000,0 days 00:00:22.215000,0 days 00:00:40.788000,2.0,SOFT,9.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,10.0,0 days 00:01:20.010000,0 days 00:00:28.019000,0 days 00:00:17.765000,0 days 00:00:34.226000,2.0,SOFT,10.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,11.0,,0 days 00:01:05.513000,0 days 00:00:20.772000,,2.0,SOFT,11.0,12,Australian Grand Prix,Q,2026
+NOR,McLaren,12.0,0 days 00:01:58.308000,0 days 00:01:00.129000,0 days 00:00:20.055000,0 days 00:00:38.124000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,13.0,0 days 00:01:38.007000,0 days 00:00:29.931000,0 days 00:00:19.674000,0 days 00:00:48.402000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,14.0,0 days 00:01:19.882000,0 days 00:00:27.903000,0 days 00:00:17.642000,0 days 00:00:34.337000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,15.0,,0 days 00:00:32.903000,0 days 00:00:21.581000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,16.0,0 days 00:01:51.016000,0 days 00:00:47.139000,0 days 00:00:19.803000,0 days 00:00:44.074000,4.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,17.0,0 days 00:01:19.909000,0 days 00:00:27.798000,0 days 00:00:17.804000,0 days 00:00:34.307000,4.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,18.0,,0 days 00:00:33.728000,0 days 00:00:24.045000,,4.0,SOFT,7.0,12,Australian Grand Prix,Q,2026
+NOR,McLaren,19.0,0 days 00:01:36.255000,0 days 00:00:37.049000,0 days 00:00:20.101000,0 days 00:00:39.105000,5.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,20.0,,,,,5.0,SOFT,2.0,152,Australian Grand Prix,Q,2026
+NOR,McLaren,21.0,0 days 00:01:54.507000,0 days 00:00:45.063000,0 days 00:00:19.971000,0 days 00:00:49.473000,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,22.0,0 days 00:01:19.605000,0 days 00:00:27.954000,0 days 00:00:17.574000,0 days 00:00:34.077000,6.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,23.0,,0 days 00:00:32.617000,0 days 00:00:21.218000,,6.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,24.0,0 days 00:01:56.603000,0 days 00:00:52.210000,0 days 00:00:23.462000,0 days 00:00:40.931000,7.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+NOR,McLaren,25.0,0 days 00:01:19.475000,0 days 00:00:27.754000,0 days 00:00:17.568000,0 days 00:00:34.153000,7.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,1.0,0 days 00:02:01.211000,0 days 00:01:00.423000,0 days 00:00:20.911000,0 days 00:00:39.877000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,2.0,0 days 00:01:30.971000,0 days 00:00:31.456000,0 days 00:00:20.583000,0 days 00:00:38.932000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,3.0,0 days 00:01:20.495000,0 days 00:00:28.263000,0 days 00:00:17.547000,0 days 00:00:34.685000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,4.0,0 days 00:01:56.178000,0 days 00:00:42.607000,0 days 00:00:26.580000,0 days 00:00:46.991000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,5.0,0 days 00:01:20.747000,0 days 00:00:28.435000,0 days 00:00:17.491000,0 days 00:00:34.821000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,6.0,,0 days 00:00:35.599000,0 days 00:00:20.231000,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+BOR,Audi,7.0,0 days 00:02:01.357000,0 days 00:00:55.665000,0 days 00:00:20.771000,0 days 00:00:44.921000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,8.0,0 days 00:01:36.520000,0 days 00:00:31.483000,0 days 00:00:21.841000,0 days 00:00:43.196000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,9.0,0 days 00:01:20.374000,0 days 00:00:28.374000,0 days 00:00:17.454000,0 days 00:00:34.546000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,10.0,,0 days 00:00:32.584000,0 days 00:00:20.584000,,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,11.0,0 days 00:01:44.231000,0 days 00:00:44.480000,0 days 00:00:20.627000,0 days 00:00:39.124000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,12.0,0 days 00:01:39.431000,0 days 00:00:31.297000,0 days 00:00:20.457000,0 days 00:00:47.677000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,13.0,0 days 00:01:20.221000,0 days 00:00:28.272000,0 days 00:00:17.418000,0 days 00:00:34.531000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BOR,Audi,14.0,,0 days 00:00:38.899000,0 days 00:00:22.106000,0 days 00:00:34.531000,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,1.0,,,0 days 00:00:21.307000,0 days 00:00:39.609000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,2.0,0 days 00:01:21.408000,0 days 00:00:28.871000,0 days 00:00:17.684000,0 days 00:00:34.853000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,3.0,0 days 00:01:52.229000,0 days 00:00:48.955000,0 days 00:00:21.330000,0 days 00:00:41.944000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,4.0,0 days 00:01:21.247000,0 days 00:00:28.868000,0 days 00:00:17.643000,0 days 00:00:34.736000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,5.0,,0 days 00:00:39.066000,0 days 00:00:20.113000,,1.0,SOFT,5.0,125,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,6.0,0 days 00:01:48.796000,0 days 00:00:46.615000,0 days 00:00:20.684000,0 days 00:00:41.497000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,7.0,0 days 00:01:21.440000,0 days 00:00:29.159000,0 days 00:00:17.694000,0 days 00:00:34.587000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,8.0,0 days 00:01:54.698000,0 days 00:00:39.307000,0 days 00:00:21.495000,0 days 00:00:53.896000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,9.0,0 days 00:01:21.389000,0 days 00:00:29.373000,0 days 00:00:17.531000,0 days 00:00:34.485000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,10.0,,0 days 00:00:36.278000,0 days 00:00:23.221000,,2.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,11.0,0 days 00:01:52.695000,0 days 00:00:53.413000,0 days 00:00:20.532000,0 days 00:00:38.750000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,12.0,0 days 00:01:36.718000,0 days 00:00:31.071000,0 days 00:00:20.753000,0 days 00:00:44.894000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,13.0,0 days 00:01:20.655000,0 days 00:00:28.610000,0 days 00:00:17.407000,0 days 00:00:34.638000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,14.0,,0 days 00:00:35,0 days 00:00:20.454000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,15.0,0 days 00:01:47.954000,0 days 00:00:48.874000,0 days 00:00:20.304000,0 days 00:00:38.776000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,16.0,0 days 00:01:33.636000,0 days 00:00:32.470000,0 days 00:00:19.962000,0 days 00:00:41.204000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,17.0,0 days 00:01:20.311000,0 days 00:00:28.492000,0 days 00:00:17.439000,0 days 00:00:34.380000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BEA,Haas F1 Team,18.0,,0 days 00:00:34.406000,0 days 00:00:23.234000,,4.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,1.0,0 days 00:02:12.239000,0 days 00:01:08.379000,0 days 00:00:20.899000,0 days 00:00:42.961000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,2.0,0 days 00:01:21.008000,0 days 00:00:28.767000,0 days 00:00:17.559000,0 days 00:00:34.682000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,3.0,0 days 00:01:46.451000,0 days 00:00:35.803000,0 days 00:00:23.748000,0 days 00:00:46.900000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,4.0,0 days 00:01:45.850000,0 days 00:00:38.017000,0 days 00:00:23.464000,0 days 00:00:44.369000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,5.0,0 days 00:01:20.409000,0 days 00:00:28.487000,0 days 00:00:17.454000,0 days 00:00:34.468000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,6.0,,0 days 00:00:34.834000,0 days 00:00:21.646000,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,7.0,,,0 days 00:00:21.257000,0 days 00:00:40.781000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,8.0,0 days 00:01:21.113000,0 days 00:00:29.120000,0 days 00:00:17.480000,0 days 00:00:34.513000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,9.0,0 days 00:01:42.796000,0 days 00:00:35.761000,0 days 00:00:22.905000,0 days 00:00:44.130000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,10.0,0 days 00:01:20.436000,0 days 00:00:28.233000,0 days 00:00:17.546000,0 days 00:00:34.657000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,11.0,,0 days 00:00:36.359000,0 days 00:00:23.715000,,2.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,12.0,0 days 00:02:07.991000,0 days 00:01:07.610000,0 days 00:00:20.674000,0 days 00:00:39.707000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,13.0,0 days 00:01:33.949000,0 days 00:00:32.340000,0 days 00:00:20.070000,0 days 00:00:41.539000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,14.0,0 days 00:01:19.971000,0 days 00:00:28.173000,0 days 00:00:17.380000,0 days 00:00:34.418000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,15.0,,0 days 00:00:34.740000,0 days 00:00:22.336000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,16.0,0 days 00:02:05.736000,0 days 00:01:02.771000,0 days 00:00:21.047000,0 days 00:00:41.918000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,17.0,0 days 00:01:42.469000,0 days 00:00:32.715000,0 days 00:00:20.881000,0 days 00:00:48.873000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,18.0,0 days 00:01:21.300000,0 days 00:00:28.541000,0 days 00:00:17.312000,0 days 00:00:35.447000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,19.0,,0 days 00:00:35.624000,0 days 00:00:23.533000,,4.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,20.0,,,0 days 00:00:20.500000,0 days 00:00:38.702000,5.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,21.0,,0 days 00:00:31.122000,0 days 00:00:19.884000,,5.0,SOFT,6.0,152,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,22.0,0 days 00:01:42.274000,0 days 00:00:42.377000,0 days 00:00:20.168000,0 days 00:00:39.729000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,23.0,0 days 00:01:32.972000,0 days 00:00:31.694000,0 days 00:00:20.978000,0 days 00:00:40.300000,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LIN,Racing Bulls,24.0,0 days 00:01:21.247000,0 days 00:00:28.023000,0 days 00:00:18.423000,0 days 00:00:34.801000,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,1.0,0 days 00:02:14.069000,0 days 00:01:12.104000,0 days 00:00:20.772000,0 days 00:00:41.193000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,2.0,0 days 00:01:21.300000,0 days 00:00:28.831000,0 days 00:00:17.639000,0 days 00:00:34.830000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,3.0,0 days 00:01:46.129000,0 days 00:00:34.140000,0 days 00:00:26.010000,0 days 00:00:45.979000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,4.0,0 days 00:01:46.121000,0 days 00:00:38.501000,0 days 00:00:21.468000,0 days 00:00:46.152000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,5.0,,0 days 00:00:32.808000,0 days 00:00:20.351000,,1.0,SOFT,5.0,125,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,6.0,,,0 days 00:00:21.003000,0 days 00:00:40.173000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,7.0,0 days 00:01:20.599000,0 days 00:00:28.473000,0 days 00:00:17.563000,0 days 00:00:34.563000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,8.0,0 days 00:01:47.504000,0 days 00:00:35.266000,0 days 00:00:28.574000,0 days 00:00:43.664000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,9.0,0 days 00:01:20.491000,0 days 00:00:28.452000,0 days 00:00:17.551000,0 days 00:00:34.488000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,10.0,,0 days 00:00:35.672000,0 days 00:00:21.807000,,2.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,11.0,0 days 00:02:11.095000,0 days 00:01:09.464000,0 days 00:00:20.938000,0 days 00:00:40.693000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,12.0,0 days 00:01:33.699000,0 days 00:00:31.907000,0 days 00:00:21.598000,0 days 00:00:40.194000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,13.0,0 days 00:01:20.144000,0 days 00:00:28.198000,0 days 00:00:17.449000,0 days 00:00:34.497000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,14.0,,0 days 00:00:33.560000,0 days 00:00:21.888000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,15.0,0 days 00:01:55.672000,0 days 00:00:52.582000,0 days 00:00:20.882000,0 days 00:00:42.208000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,16.0,0 days 00:01:43.621000,0 days 00:00:31.882000,0 days 00:00:20.865000,0 days 00:00:50.874000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,17.0,0 days 00:01:20.211000,0 days 00:00:28.499000,0 days 00:00:17.360000,0 days 00:00:34.352000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,18.0,,0 days 00:00:35.817000,0 days 00:00:22.706000,,4.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,19.0,,,0 days 00:00:20.758000,0 days 00:00:40.080000,5.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,20.0,,0 days 00:00:32.331000,0 days 00:00:19.937000,,5.0,SOFT,6.0,152,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,21.0,0 days 00:01:46.604000,0 days 00:00:44.891000,0 days 00:00:21.177000,0 days 00:00:40.536000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,22.0,0 days 00:01:33.454000,0 days 00:00:32.080000,0 days 00:00:21.726000,0 days 00:00:39.648000,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+LAW,Racing Bulls,23.0,0 days 00:01:19.994000,0 days 00:00:28.206000,0 days 00:00:17.395000,0 days 00:00:34.393000,6.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,1.0,,,0 days 00:00:21.588000,0 days 00:00:41.037000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,2.0,0 days 00:01:21.818000,0 days 00:00:28.939000,0 days 00:00:17.959000,0 days 00:00:34.920000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,3.0,0 days 00:01:51.972000,0 days 00:00:39.017000,0 days 00:00:23.346000,0 days 00:00:49.609000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,4.0,0 days 00:01:21.264000,0 days 00:00:28.791000,0 days 00:00:17.828000,0 days 00:00:34.645000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,5.0,,0 days 00:00:38.332000,0 days 00:00:20.360000,,1.0,SOFT,5.0,125,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,6.0,0 days 00:01:56.745000,0 days 00:00:53.489000,0 days 00:00:21.534000,0 days 00:00:41.722000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,7.0,0 days 00:01:20.759000,0 days 00:00:28.594000,0 days 00:00:17.676000,0 days 00:00:34.489000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,8.0,0 days 00:01:50.647000,0 days 00:00:35.136000,0 days 00:00:26.434000,0 days 00:00:49.077000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,9.0,0 days 00:01:20.868000,0 days 00:00:28.510000,0 days 00:00:17.738000,0 days 00:00:34.620000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,10.0,,0 days 00:00:36.577000,0 days 00:00:23.035000,,2.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,11.0,,0 days 00:01:34.733000,0 days 00:00:21.390000,0 days 00:00:38.428000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,12.0,0 days 00:01:32.579000,0 days 00:00:31.255000,0 days 00:00:20.946000,0 days 00:00:40.378000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,13.0,0 days 00:01:20.491000,0 days 00:00:28.499000,0 days 00:00:17.469000,0 days 00:00:34.523000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,14.0,,0 days 00:00:39.504000,0 days 00:00:21.337000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,15.0,0 days 00:01:47.295000,0 days 00:00:45.636000,0 days 00:00:21.209000,0 days 00:00:40.450000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,16.0,0 days 00:01:34.452000,0 days 00:00:31.117000,0 days 00:00:20.851000,0 days 00:00:42.484000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,17.0,0 days 00:01:21.069000,0 days 00:00:28.539000,0 days 00:00:17.794000,0 days 00:00:34.736000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+OCO,Haas F1 Team,18.0,,0 days 00:00:34.813000,0 days 00:00:23.577000,,4.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,1.0,,,0 days 00:00:20.891000,0 days 00:00:42.349000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,2.0,0 days 00:01:36.136000,0 days 00:00:31.544000,0 days 00:00:19.313000,0 days 00:00:45.279000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,3.0,0 days 00:01:21.232000,0 days 00:00:28.867000,0 days 00:00:17.602000,0 days 00:00:34.763000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,4.0,0 days 00:01:51.916000,0 days 00:00:40.396000,0 days 00:00:26.718000,0 days 00:00:44.802000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,5.0,0 days 00:01:21.088000,0 days 00:00:28.619000,0 days 00:00:17.637000,0 days 00:00:34.832000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,6.0,,0 days 00:00:30.421000,0 days 00:00:19.711000,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+HUL,Audi,7.0,0 days 00:01:47.391000,0 days 00:00:41.597000,0 days 00:00:20.308000,0 days 00:00:45.486000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,8.0,0 days 00:01:21.024000,0 days 00:00:28.577000,0 days 00:00:17.800000,0 days 00:00:34.647000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,9.0,0 days 00:01:54.052000,0 days 00:00:42.729000,0 days 00:00:26.876000,0 days 00:00:44.447000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,10.0,,0 days 00:00:29.113000,0 days 00:00:17.819000,,2.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+HUL,Audi,11.0,0 days 00:02:11.575000,0 days 00:01:04.625000,0 days 00:00:20.601000,0 days 00:00:46.349000,3.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,12.0,0 days 00:01:21.191000,0 days 00:00:28.906000,0 days 00:00:17.513000,0 days 00:00:34.772000,3.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,13.0,,0 days 00:00:33.788000,0 days 00:00:19.726000,,3.0,SOFT,7.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,14.0,0 days 00:01:48.237000,0 days 00:00:36.144000,0 days 00:00:20.207000,0 days 00:00:51.886000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,15.0,0 days 00:01:20.303000,0 days 00:00:28.587000,0 days 00:00:17.405000,0 days 00:00:34.311000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,16.0,0 days 00:01:57.291000,0 days 00:00:41.247000,0 days 00:00:22.884000,0 days 00:00:53.160000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,17.0,0 days 00:01:22.860000,0 days 00:00:28.775000,0 days 00:00:17.662000,0 days 00:00:36.423000,4.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+HUL,Audi,18.0,,0 days 00:00:37.157000,0 days 00:00:22.201000,,4.0,SOFT,5.0,12,Australian Grand Prix,Q,2026
+GAS,Alpine,1.0,0 days 00:02:04.879000,0 days 00:01:00.883000,0 days 00:00:20.369000,0 days 00:00:43.627000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,2.0,0 days 00:01:22.674000,0 days 00:00:29.335000,0 days 00:00:17.913000,0 days 00:00:35.426000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,3.0,0 days 00:01:50.024000,0 days 00:00:38.258000,0 days 00:00:22.266000,0 days 00:00:49.500000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,4.0,0 days 00:01:46.418000,0 days 00:00:37.719000,0 days 00:00:21.067000,0 days 00:00:47.632000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,5.0,0 days 00:01:21.431000,0 days 00:00:28.421000,0 days 00:00:17.951000,0 days 00:00:35.059000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,6.0,,0 days 00:00:36.057000,0 days 00:00:21.328000,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+GAS,Alpine,7.0,0 days 00:01:51.756000,0 days 00:00:42.948000,0 days 00:00:19.905000,0 days 00:00:48.903000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,8.0,0 days 00:01:37.775000,0 days 00:00:31.676000,0 days 00:00:20.707000,0 days 00:00:45.392000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,9.0,0 days 00:01:21.138000,0 days 00:00:28.402000,0 days 00:00:17.696000,0 days 00:00:35.040000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,10.0,,0 days 00:00:37.340000,0 days 00:00:23.171000,,2.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+GAS,Alpine,11.0,0 days 00:02:10.732000,0 days 00:01:10.105000,0 days 00:00:20.428000,0 days 00:00:40.199000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,12.0,0 days 00:01:35.754000,0 days 00:00:31.102000,0 days 00:00:19.867000,0 days 00:00:44.785000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,13.0,0 days 00:01:20.501000,0 days 00:00:28.339000,0 days 00:00:17.557000,0 days 00:00:34.605000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,14.0,,0 days 00:00:37.095000,0 days 00:00:21.491000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,15.0,0 days 00:01:47.314000,0 days 00:00:44.468000,0 days 00:00:20.531000,0 days 00:00:42.315000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,16.0,0 days 00:01:47.186000,0 days 00:00:32.863000,0 days 00:00:20.279000,0 days 00:00:54.044000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,17.0,0 days 00:01:20.826000,0 days 00:00:28.283000,0 days 00:00:17.626000,0 days 00:00:34.917000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+GAS,Alpine,18.0,,0 days 00:00:38.194000,0 days 00:00:21.162000,,4.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+COL,Alpine,1.0,0 days 00:02:01.668000,0 days 00:00:59.495000,0 days 00:00:20.224000,0 days 00:00:41.949000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,2.0,0 days 00:01:23.393000,0 days 00:00:28.681000,0 days 00:00:18.796000,0 days 00:00:35.916000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,3.0,0 days 00:01:51.550000,0 days 00:00:38.642000,0 days 00:00:22.987000,0 days 00:00:49.921000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,4.0,0 days 00:01:48.667000,0 days 00:00:43.534000,0 days 00:00:22.920000,0 days 00:00:42.213000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,5.0,0 days 00:01:22.247000,0 days 00:00:29.133000,0 days 00:00:17.786000,0 days 00:00:35.328000,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,6.0,,0 days 00:00:38.878000,0 days 00:00:20.698000,,1.0,SOFT,6.0,125,Australian Grand Prix,Q,2026
+COL,Alpine,7.0,0 days 00:01:55.225000,0 days 00:00:44.557000,0 days 00:00:20.591000,0 days 00:00:50.077000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,8.0,0 days 00:01:43.130000,0 days 00:00:29.520000,0 days 00:00:28.094000,0 days 00:00:45.516000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,9.0,0 days 00:01:21.200000,0 days 00:00:28.515000,0 days 00:00:17.811000,0 days 00:00:34.874000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,10.0,,0 days 00:00:33.660000,0 days 00:00:20.670000,,2.0,SOFT,4.0,12,Australian Grand Prix,Q,2026
+COL,Alpine,11.0,0 days 00:02:05.999000,0 days 00:01:05.279000,0 days 00:00:20.474000,0 days 00:00:40.246000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,12.0,0 days 00:01:44.501000,0 days 00:00:31.725000,0 days 00:00:20.286000,0 days 00:00:52.490000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,13.0,0 days 00:01:21.852000,0 days 00:00:28.874000,0 days 00:00:17.680000,0 days 00:00:35.298000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,14.0,,0 days 00:00:33.568000,0 days 00:00:21.936000,,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,15.0,0 days 00:01:49.275000,0 days 00:00:48.504000,0 days 00:00:20.691000,0 days 00:00:40.080000,4.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,16.0,0 days 00:01:45.209000,0 days 00:00:34.146000,0 days 00:00:20.208000,0 days 00:00:50.855000,4.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,17.0,0 days 00:01:21.270000,0 days 00:00:28.489000,0 days 00:00:17.621000,0 days 00:00:35.160000,4.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+COL,Alpine,18.0,,0 days 00:00:34.982000,0 days 00:00:21.410000,,4.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,1.0,,,0 days 00:00:20.535000,0 days 00:00:40.833000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,2.0,0 days 00:01:21.802000,0 days 00:00:28.934000,0 days 00:00:17.771000,0 days 00:00:35.097000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,3.0,0 days 00:01:54.904000,0 days 00:00:43.360000,0 days 00:00:24.474000,0 days 00:00:47.070000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,4.0,0 days 00:01:22.223000,0 days 00:00:29.214000,0 days 00:00:17.902000,0 days 00:00:35.107000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,5.0,,0 days 00:00:34.940000,0 days 00:00:21.703000,,1.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,6.0,,0 days 00:00:46.783000,0 days 00:00:20.079000,,2.0,SOFT,1.0,125,Australian Grand Prix,Q,2026
+ALB,Williams,7.0,0 days 00:01:53.099000,0 days 00:00:52.653000,0 days 00:00:20.211000,0 days 00:00:40.235000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,8.0,0 days 00:01:21.481000,0 days 00:00:28.822000,0 days 00:00:17.722000,0 days 00:00:34.937000,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,9.0,0 days 00:01:52.886000,0 days 00:00:43.941000,0 days 00:00:24.988000,0 days 00:00:43.957000,3.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,10.0,0 days 00:01:21.051000,0 days 00:00:28.440000,0 days 00:00:17.670000,0 days 00:00:34.941000,3.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,11.0,,0 days 00:00:34.318000,0 days 00:00:22.625000,,3.0,SOFT,6.0,12,Australian Grand Prix,Q,2026
+ALB,Williams,12.0,0 days 00:01:56.823000,0 days 00:00:57.792000,0 days 00:00:19.842000,0 days 00:00:39.189000,4.0,SOFT,6.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,13.0,0 days 00:01:21.975000,0 days 00:00:29.278000,0 days 00:00:17.751000,0 days 00:00:34.946000,4.0,SOFT,7.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,14.0,0 days 00:01:59.300000,0 days 00:00:37.114000,0 days 00:00:22.380000,0 days 00:00:59.806000,4.0,SOFT,8.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,15.0,0 days 00:01:39.026000,0 days 00:00:39.954000,0 days 00:00:19.719000,0 days 00:00:39.353000,5.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,16.0,0 days 00:01:20.941000,0 days 00:00:28.292000,0 days 00:00:17.740000,0 days 00:00:34.909000,5.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,17.0,,0 days 00:00:36.115000,0 days 00:00:23.361000,,5.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,18.0,0 days 00:01:43.318000,0 days 00:00:39.229000,0 days 00:00:23.051000,0 days 00:00:41.038000,6.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ALB,Williams,19.0,,0 days 00:00:39.928000,0 days 00:00:21.241000,,6.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,1.0,0 days 00:02:13.764000,0 days 00:01:11.288000,0 days 00:00:21.263000,0 days 00:00:41.213000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,2.0,0 days 00:01:23.011000,0 days 00:00:29.274000,0 days 00:00:18.305000,0 days 00:00:35.432000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,3.0,0 days 00:01:43.728000,0 days 00:00:37.651000,0 days 00:00:20.721000,0 days 00:00:45.356000,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,4.0,0 days 00:01:22.555000,0 days 00:00:28.974000,0 days 00:00:18.172000,0 days 00:00:35.409000,1.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,5.0,,0 days 00:00:35.444000,0 days 00:00:20.883000,,1.0,SOFT,5.0,125,Australian Grand Prix,Q,2026
+ALO,Aston Martin,6.0,0 days 00:01:56.787000,0 days 00:00:55.716000,0 days 00:00:20.977000,0 days 00:00:40.094000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,7.0,0 days 00:01:22.150000,0 days 00:00:28.896000,0 days 00:00:18.089000,0 days 00:00:35.165000,2.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,8.0,0 days 00:01:40.143000,0 days 00:00:34.840000,0 days 00:00:20.752000,0 days 00:00:44.551000,2.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,9.0,0 days 00:01:21.969000,0 days 00:00:28.797000,0 days 00:00:18.047000,0 days 00:00:35.125000,2.0,SOFT,4.0,1,Australian Grand Prix,Q,2026
+ALO,Aston Martin,10.0,,0 days 00:00:39.735000,0 days 00:00:25.158000,,2.0,SOFT,5.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,1.0,0 days 00:02:09.994000,0 days 00:01:07.955000,0 days 00:00:20.755000,0 days 00:00:41.284000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,2.0,0 days 00:01:23.641000,0 days 00:00:29.482000,0 days 00:00:17.949000,0 days 00:00:36.210000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,3.0,,0 days 00:00:34.867000,0 days 00:00:20.542000,,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,4.0,0 days 00:01:41.323000,0 days 00:00:41.601000,0 days 00:00:20.218000,0 days 00:00:39.504000,2.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,5.0,,,,,2.0,SOFT,2.0,125,Australian Grand Prix,Q,2026
+BOT,Cadillac,6.0,0 days 00:01:44.306000,0 days 00:00:41.112000,0 days 00:00:20.231000,0 days 00:00:42.963000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,7.0,0 days 00:01:23.244000,0 days 00:00:29.198000,0 days 00:00:18.068000,0 days 00:00:35.978000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+BOT,Cadillac,8.0,,0 days 00:00:37.594000,0 days 00:00:24.343000,,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,1.0,0 days 00:02:12.455000,0 days 00:01:10.664000,0 days 00:00:21.010000,0 days 00:00:40.781000,1.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,2.0,0 days 00:01:23.567000,0 days 00:00:29.434000,0 days 00:00:17.996000,0 days 00:00:36.137000,1.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,3.0,,0 days 00:00:36.646000,0 days 00:00:21.401000,,1.0,SOFT,3.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,4.0,,0 days 00:00:42.166000,0 days 00:00:20.945000,,2.0,SOFT,1.0,125,Australian Grand Prix,Q,2026
+PER,Cadillac,5.0,0 days 00:01:46.087000,0 days 00:00:40.026000,0 days 00:00:20.420000,0 days 00:00:45.641000,3.0,SOFT,1.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,6.0,0 days 00:01:22.605000,0 days 00:00:29.138000,0 days 00:00:17.819000,0 days 00:00:35.648000,3.0,SOFT,2.0,1,Australian Grand Prix,Q,2026
+PER,Cadillac,7.0,,0 days 00:00:36.031000,0 days 00:00:25.136000,,3.0,SOFT,3.0,1,Australian Grand Prix,Q,2026

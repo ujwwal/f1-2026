@@ -1,4 +1,4 @@
-# Frontend (React + Vite)
+# Frontend (Flask)
 
 This frontend is intentionally separate from the backend data/ML system.
 
@@ -25,22 +25,29 @@ This makes each side easier to evolve independently.
 1. Install dependencies:
 
 ```bash
-npm install
+pip install -r requirements.txt
 ```
 
-2. Start the dev server:
+2. Start the Flask app:
 
 ```bash
-npm run dev
+python app.py
 ```
 
 3. Optional API base URL override:
 
-Create `.env` and set:
+```bash
+export API_BASE_URL=http://127.0.0.1:8000
+```
+
+4. Optional host/port override:
 
 ```bash
-VITE_API_BASE_URL=http://127.0.0.1:8000
+export FRONTEND_HOST=127.0.0.1
+export FRONTEND_PORT=5000
 ```
+
+Open `http://127.0.0.1:5000` in your browser.
 
 ## Current UI sections
 

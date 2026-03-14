@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>F1 2026 Race Strategy Suite</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <h1>F1 2026 Race Strategy Suite</h1>
+        <p>
+          Separate frontend for visualization. Backend remains the single source of truth for data,
+          analytics, and future ML.
+        </p>
+      </header>
+
+      <section class="panel">
+        <h2>Session Data</h2>
+        <label for="dataset-select">Processed dataset</label>
+        <select id="dataset-select" disabled>
+          <option value="">Loading datasets...</option>
+        </select>
+
+        <p id="error" class="error" hidden></p>
+        <p id="loading" hidden>Loading rows...</p>
+
+        <div class="table-wrap" id="table-wrap" hidden>
+          <table>
+            <thead id="table-head"></thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel placeholder">
+        <h2>Future Strategy Insights</h2>
+        <p>
+          This panel is reserved for pace trend summaries, tyre strategy insights, and 2026 concept
+          simulation outputs.
+        </p>
+      </section>
+    </div>
+
+    <script>
+      window.APP_CONFIG = {
+        apiBaseUrl: "{{ api_base_url }}"
+      };
+    </script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>

@@ -16,4 +16,10 @@
   .custom-scrollbar::-webkit-scrollbar-thumb:hover {
     background: rgba(175, 37, 244, 0.4);
   }
+
+  /* Shatter effect helpers */
+  .shatter-overlay {
+    mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+  }
 }
